@@ -4,7 +4,7 @@ A new Flutter project.
 
 
 <p float="left">
-  <img src="https://github.com/Gaurav-Krishna-Gaali/plant_app/blob/master/Screen_Recording_20210419-114052_1.gif" width="500"  />
+  <img src="https://github.com/Gaurav-Krishna-Gaali/plant_app/blob/master/Screen_Recording_20210419-114052_1.gif" width="300" />
 
 </p>
 
