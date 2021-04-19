@@ -8,9 +8,3 @@ A new Flutter project.
   <img src="https://github.com/Gaurav-Krishna-Gaali/plant_app/blob/master/Screenshot_20210419-113954.jpg" width="300" />
   <img src="https://github.com/Gaurav-Krishna-Gaali/plant_app/blob/master/Screenshot_20210419-114004.jpg" width="300" /> 
   
-
-</p>
-
-<p float="left">
-  
-</p>
