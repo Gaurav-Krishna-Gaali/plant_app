@@ -4,8 +4,8 @@ A new Flutter project.
 
 
 <p float="left">
-  <img src="https://github.com/Gaurav-Krishna-Gaali/plant_app/blob/master/Screenshot_20210419-113954.jpg" width="1000" />
-  <img src="https://github.com/Gaurav-Krishna-Gaali/plant_app/blob/master/Screenshot_20210419-114004.jpg" width="1000" /> 
+  <img src="https://github.com/Gaurav-Krishna-Gaali/plant_app/blob/master/Screenshot_20210419-113954.jpg" width="500" />
+  <img src="https://github.com/Gaurav-Krishna-Gaali/plant_app/blob/master/Screenshot_20210419-114004.jpg" width="500" /> 
   <img src="/img3.png" width="100" />
 </p>
 
